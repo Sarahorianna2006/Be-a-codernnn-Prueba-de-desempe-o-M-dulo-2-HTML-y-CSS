@@ -13,7 +13,8 @@ Desarrolle un programa que le muestra al usuario una breve presentacion personal
 **--Recursos gráficos utilizados:**
 
 **Los recursos gráficos utilizados:**
-- ![alt text](img/flecha_regreso.png)
+- ![flecha_regreso](https://github.com/user-attachments/assets/21db84c4-88a0-41d7-acf6-ba33bb9c731f)
+
 - ![alt text](img/github(1).png)
 - ![alt text](img/imagen_project_1.jpeg)
 - ![alt text](img/imagen_project_2.png)
